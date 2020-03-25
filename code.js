@@ -6,8 +6,8 @@ const rblxCookie = process.env.rblxCookie;
 const officerRoleE = "| Chief Executive Officer";
 const welcomeMessage = "Welcome!";
 const maxXP = 10;
-const xpAuditLogChannelID = "691647740546908200";
-const mainChatChannelID = "691646932740997223";
+const xpAuditLogChannelID = "669933698505768960";
+const mainChatChannelID = "669933698505768960";
 const fireBaseURL = process.env.fireBaseURL;
 const xpName = "xp";
 /* SETTINGS END */
